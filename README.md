@@ -83,13 +83,6 @@ This script is for educational purposes only. If you use it to create a playlist
 
 Feel free to fork this repo, make some improvements, and submit a pull request. Just don't break the space-time continuum.
 
-## License
-
-[MIT License](LICENSE)
-
----
-
-Happy time-traveling! And remember, with great power comes great Spotify playlists.
 ```
 
 This README file should provide clear instructions and a bit of humor to make the setup process more enjoyable. Feel free to customize it further according to your preferences!
